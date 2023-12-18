@@ -1,0 +1,28 @@
+{
+  "name": "nayu-bot",
+  "version": "0.0.0",
+  "description": "A music bot for discord",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabriicioMelo/discordbot-project.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "music"
+  ],
+  "author": "FabriicioMelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabriicioMelo/discordbot-project/issues"
+  },
+  "homepage": "https://github.com/FabriicioMelo/discordbot-project#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ws": "^8.15.1"
+  }
+}
